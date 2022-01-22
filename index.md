@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## In2Motion
 
 You can use the [editor on GitHub](https://github.com/in2motion/in2motion.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
